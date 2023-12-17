@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"ToteClientApp.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"ToteClientApp.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
